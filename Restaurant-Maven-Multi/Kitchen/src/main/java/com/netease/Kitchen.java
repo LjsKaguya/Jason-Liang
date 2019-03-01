@@ -3,6 +3,7 @@ package com.netease;
 import java.io.IOException;
 import java.io.InputStream;
 
+//This is a test
 public class Kitchen {
     public static String makeNoodles(String vegetable) {
         if (vegetable == null) {
